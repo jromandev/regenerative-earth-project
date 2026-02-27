@@ -1,0 +1,9 @@
+{
+  "results": [
+    { "latitude": -1.2921, "longitude": 36.8219, "elevation": 1660 },
+    { "latitude": -1.2821, "longitude": 36.8219, "elevation": 1665 },
+    { "latitude": -1.3021, "longitude": 36.8219, "elevation": 1655 },
+    { "latitude": -1.2921, "longitude": 36.8319, "elevation": 1662 },
+    { "latitude": -1.2921, "longitude": 36.8119, "elevation": 1658 }
+  ]
+}

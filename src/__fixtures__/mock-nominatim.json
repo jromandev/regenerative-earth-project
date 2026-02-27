@@ -1,0 +1,14 @@
+{
+  "display_name": "Nairobi, Nairobi County, Kenya",
+  "lat": "-1.2920659",
+  "lon": "36.8219462",
+  "type": "city",
+  "category": "place",
+  "address": {
+    "city": "Nairobi",
+    "county": "Nairobi County",
+    "state": "Nairobi County",
+    "country": "Kenya",
+    "country_code": "ke"
+  }
+}
