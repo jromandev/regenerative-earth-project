@@ -82,8 +82,7 @@ describe('foodStrategy', () => {
 
   it('growing season is very short for polar', () => {
     const result = foodStrategy(makeInput('polar'));
-    expect(result.growing_seasons.toLowerCase()).toContain('short') || 
-    expect(result.growing_seasons.toLowerCase()).toContain('greenhouse');
+    expect(result.growing_seasons.toLowerCase()).toMatch(/short|greenhouse/);
   });
 
   it('always has non-empty reasoning trace', () => {
