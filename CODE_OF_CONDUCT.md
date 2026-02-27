@@ -1,5 +1,3 @@
-# CODE_OF_CONDUCT.md
-
 ## Code of Conduct
 
 The Regenerative Earth Project is committed to creating a welcoming, respectful, and collaborative environment for all contributors.

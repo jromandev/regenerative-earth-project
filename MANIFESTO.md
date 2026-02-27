@@ -1,5 +1,3 @@
-# MANIFESTO.md
-
 # The Regenerative Earth Project Manifesto
 
 Humanity does not lack resources.

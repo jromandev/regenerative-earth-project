@@ -1,5 +1,3 @@
-# CONTRIBUTING.md
-
 ## Contributing to The Regenerative Earth Project
 
 Thank you for your interest in contributing. This project exists to support regenerative, community-centered development around the world. Contributions are welcome from developers, researchers, engineers, designers, and practitioners.

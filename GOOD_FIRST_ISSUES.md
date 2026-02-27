@@ -1,4 +1,3 @@
-
 🌱 Good First Issues
 
 Welcome! This document lists beginner-friendly tasks that help move The Regenerative Earth Project forward.
